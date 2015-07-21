@@ -1,0 +1,16 @@
+{
+    "name": "suxiaolin/yii-chang-yan",
+    "description": "yii 畅言评论小控件",
+    "homepage": "https://github.com/su-xiaolin/YiiChangYan",
+    "type": "widget",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "suxiaolin",
+            "email": "suxiaolin@mail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "~1.1.6"
+    }
+}
